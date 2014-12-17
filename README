@@ -21,3 +21,13 @@ To set it up:
    http://localhost:9999/client.html (or if your browser's on a different
    machine than you're running the game, the machine name instead of
    "localhost").  They should connect and play the "game".
+
+
+------------------------------------------------------------------------
+
+Text above that line is from Doug Z's original archive. Stuff below was
+added by me (danluu). This code in this repo is all from Doug Z, with
+the comment "it's in the public domain, do anything you like with it".
+
+I'm going to stick an apache license on this because I want that for
+my modifications to this code anyway, but it's not really my code.
